@@ -1,0 +1,10 @@
+{
+  "tool": "aws-diagram",
+  "input": {
+    "prompt": "Create a VPC with 2 subnets, 1 EC2, and 1 RDS instance architecture diagram"
+  },
+  "output": {
+    "file": "/workspace/output.png",
+    "format": "png"
+  }
+}
